@@ -1,1 +1,1 @@
-changes working directory to user
+script that changes the working directory to the user’s home directory.
